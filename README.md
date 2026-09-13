@@ -1,4 +1,4 @@
-# Academic Stress & Student Well-being
+# Academic Stress Student
 
 An independent statistical analysis of the relationship between study load, sleep quality, social support, and student stress level.
 
