@@ -3,4 +3,7 @@ numpy
 matplotlib
 scipy
 statsmodels
+scikit-learn
+pymc
+arviz
 jupyter
