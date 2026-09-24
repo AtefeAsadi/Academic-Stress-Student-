@@ -1,4 +1,4 @@
-# Academic Stress and Student Wellbeing
+# Academic Stress Student Project
 
 This project studies the relationship between study load, sleep quality, social support, and student stress level using statistical models and sensitivity analyses.
 
